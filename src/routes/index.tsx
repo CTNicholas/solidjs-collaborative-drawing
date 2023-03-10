@@ -4,7 +4,7 @@ import { LiveMap } from "@liveblocks/client";
 import Canvas from "~/components/Canvas";
 import Template from "~/components/Template";
 
-const roomId = "my-solid";
+const roomId = "solid-drawing";
 
 export default function Home() {
   const [room] = createSignal<Room>(
