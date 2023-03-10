@@ -1,0 +1,13 @@
+.main {
+  background: #03000A;
+  position: absolute;
+  inset: 0;
+}
+
+.logo {
+  position: absolute;
+  color: white;
+  top: 20px;
+  left: 40px;
+  width: 200px;
+}

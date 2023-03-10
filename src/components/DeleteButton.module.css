@@ -1,0 +1,20 @@
+.deleteButton {
+  position: absolute;
+  right: 30px;
+  top: 40px;
+  appearance: none;
+  background: none;
+  border: none;
+  color: white;
+  opacity: 0.4;
+  cursor: pointer;
+}
+
+.deleteButton:hover {
+  opacity: 0.7;
+}
+
+.deleteSvg {
+  width: 24px;
+  height: 24px;
+}
