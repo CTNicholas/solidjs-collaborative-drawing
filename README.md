@@ -1,3 +1,11 @@
+# Preview
+
+Collaborative drawing demo build with [Solid.js](https://www.solidjs.com). It's slightly better than the preview below, as it also allows you to draw multiple strokes, and has a reset button.
+
+https://user-images.githubusercontent.com/33033422/224320601-23002c1e-1fb9-4e3f-b437-f99bd216bc9e.mp4
+
+
+
 # SolidStart
 
 Everything you need to build a Solid project, powered by [`solid-start`](https://start.solidjs.com);
